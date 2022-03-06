@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pertemuan4_71190496</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="tombolMsk">Login</string>
+    <string name="tombolRgs">Register</string>
+    <string name="forgot"><font color='c4c4c4'>Forgot your login details? </font><b>Get help logging in.</b></string>
+</resources>

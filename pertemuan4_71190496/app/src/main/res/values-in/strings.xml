@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pertemuan4_71190496</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="password">Kata Sandi</string>
+    <string name="tombolMsk">Masuk</string>
+    <string name="tombolRgs">Daftar</string>
+    <string name="forgot"><font color='c4c4c4'>Lupa detail login anda? </font><b>Minta bantuan untuk login.</b></string>
+</resources>
