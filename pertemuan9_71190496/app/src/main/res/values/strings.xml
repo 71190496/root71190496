@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pertemuan9_71190496</string>
+    <string-array name="list_bahasa">
+        <item>Bahasa Inggris</item>
+        <item>Bahasa Indonesia</item>
+        <item>Bahasa China</item>
+        <item>Bahasa Thailand</item>
+    </string-array>
+
+    <string-array name="list_font">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+</resources>
